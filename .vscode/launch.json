@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MultiplesOfEachElement",
+            "request": "launch",
+            "mainClass": "MultiplesOfEachElement",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "reverseWorDByWord",
+            "request": "launch",
+            "mainClass": "leetcode.Strings.reverseWorDByWord",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyCount",
+            "request": "launch",
+            "mainClass": "leetcode.Hashing.FrequencyCount",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "reveseString",
+            "request": "launch",
+            "mainClass": "leetcode.Strings.reveseString",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "recursionFun",
+            "request": "launch",
+            "mainClass": "ScalerAssignment.recursionFun",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "sortString",
+            "request": "launch",
+            "mainClass": "leetcode.Strings.sortString",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "mergeTwoString",
+            "request": "launch",
+            "mainClass": "leetcode.mergeTwoString",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "solve",
+            "request": "launch",
+            "mainClass": "leetcode.solve",
+            "projectName": "scaler_c2c99a93"
+        },
+        {
+            "type": "java",
+            "name": "tc_logn",
+            "request": "launch",
+            "mainClass": "tc_logn",
+            "projectName": "scaler_c2c99a93"
+        }
+    ]
+}
